@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled output
+compiled/
+
+# Optional: other common ignore patterns
+dist/
+build/
+.env
